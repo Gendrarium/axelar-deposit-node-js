@@ -1,2 +1,3 @@
 # axelar-deposit-node-js
-Sending tokens with axelar deposit adress
+
+Сервер для создания депозитного адреса через сеть axelar. Используется для отправки токенов между разными блокчейнами.
